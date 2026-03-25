@@ -5,7 +5,7 @@
   "description": "Autonomous Agentic Red-Teaming Swarm Protocol",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/project-sicario/sicario.git"
+    "url": "https://github.com/EmmyCodes234/sicario-red-team.git"
   },
   "homepage": "https://sicario-red-team.com",
   "keywords": [
